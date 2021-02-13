@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dict>
+  <key>easy</key>
+  <string>我要打九折</string>
+  <key>normal</key>
+  <string>我要打八折</string>
+  <key>hard</key>
+  <string>我要打七折</string>
+  <key>veryhard</key>
+  <string>我要打六折</string>
+  <key>abnormal</key>
+  <string>我要打五折</string>
+  <key>jishi</key>
+  <string>我要免费拿</string>
+  
+  <key>about</key>
+  <string>游戏说明</string>
+  <key>quit</key>
+  <string>退出游戏</string>
+  <key>backmenu</key>
+  <string>返回</string>
+
+
+
+
+  <key>congratulations</key>
+  <string>
+  恭喜您拼图成功！数据已记录，图片
+  中的衣服您可享受</string>
+  <key>congratulations2</key>
+  <string>折优惠</string>
+
+  
+  <key>wish</key>
+  <string>我知道了</string>
+  
+  <key>love</key>
+  <string>
+    需要强调的是最后一个模式【我要免
+    费拿】，在这个模式下，如果您在75
+    秒之内完成拼图（因为鄙人的最快纪
+    录是80秒），那么您就可以免费领取
+    图片中的商品，如果该商品已经被购
+    买，那么您可以更换另一款同等价位
+    的商品。
+    
+    特别声明：这款游戏的本质目的是为
+    了促销，但因为不清楚游戏玩家的水
+    平，假如有太多拼图高手的话，那么
+    店家是绝对吃不消的（事实上，大概
+    过了五折，店家就会是亏损的）！所
+    以关于游戏所说的优惠，会存在一种
+    失效的可能性（但店主在此之前一定
+    会提前通知），关于这点，还望您的
+    体谅与理解。详情可以咨询店主微信
+    号：
+    XXXXXXX
+    或加入群聊
+    
+     实体店地址：XXXXXXXX
+     最后祝您游戏愉快
+  </string>
+
+  <key>attainment</key>
+  <string>我的成就</string>
+
+  <key>help</key>
+  <string>游戏帮助</string>
+
+  <key>unlocked</key>
+  <string>您可享受原价的</string>
+
+  <key>incomplete</key>
+  <string>您尚未解锁</string>
+
+  <key>xixi0</key>
+  <string>香奈儿针织长裙，原价188，</string>
+
+  <key>xixi1</key>
+  <string>精品针织直筒裤，原价258，</string>
+
+  <key>xixi2</key>
+  <string>精品针织直筒裤，原价258，</string>
+
+  <key>xixi3</key>
+  <string>水貂绒闺蜜装，长款419，短款358，</string>
+
+  <key>xixi4</key>
+  <string>精品针织休闲裤，原价258，</string>
+
+  <key>xixi5</key>
+  <string>精品针织奶奶裤，原价258，</string>
+
+  <key>xixi6</key>
+  <string>精品水貂绒毛衣，原价325，</string>
+
+  <key>xixi7</key>
+  <string>精品连衣裙，原价235，</string>
+
+  <key>xixi8</key>
+  <string>精品针织奶奶裤，原价258，</string>
+
+  <key>xixi9</key>
+  <string>精品皮短裤，原价105，</string>
+
+  <key>xixi10</key>
+  <string>精品针织短款小高腰毛衣，原价165，</string>
+
+  <key>xixi11</key>
+  <string>精品针织休闲裤，原价258，</string>
+
+  <key>xixi12</key>
+  <string>香奈儿小香风羊羔毛外套，原价388，</string>
+
+  <key>xixi13</key>
+  <string>精品针织小脚裤，原价258，</string>
+
+  <key>helpWord</key>
+  <string>
+    通过扒拉屏幕来移动小图块，当把
+    所有的小图块拼成右下角的图片时
+    ，游戏过关。需要注意的是最后两
+    个模式（“我要打五折”与“我要
+    免费拿”），在这种模式下，小图
+    块的每一次移动都会伴随着旋转（
+    顺时针旋转90度），过关条件和经
+    典模式一样：让每个小图块处在正
+    确的位置并调整成正确的角度，就
+    跟职场一样：总跟周围人有缝隙？
+    要么是你的姿态有问题，要么是你
+    的位置有问题
+  </string>
+</dict>
